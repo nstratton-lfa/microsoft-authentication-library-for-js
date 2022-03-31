@@ -1,8 +1,16 @@
 # Change Log - @azure/msal-common
 
-This log was last generated on Tue, 08 Feb 2022 00:41:06 GMT and should not be manually modified.
+This log was last generated on Thu, 31 Mar 2022 23:30:44 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 6.2.0
+
+Thu, 31 Mar 2022 23:30:44 GMT
+
+### Minor changes
+
+- Add Client Application telemetry parameters to MSAL #4616 (prithviraj.kanherkar@microsoft.com)
 
 ## 6.1.0
 

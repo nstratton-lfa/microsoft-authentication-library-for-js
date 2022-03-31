@@ -1,8 +1,21 @@
 # Change Log - @azure/msal-browser
 
-This log was last generated on Mon, 07 Mar 2022 23:28:43 GMT and should not be manually modified.
+This log was last generated on Thu, 31 Mar 2022 23:30:44 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 2.23.0
+
+Thu, 31 Mar 2022 23:30:44 GMT
+
+### Minor changes
+
+- Add Client Application telemetry parameters to MSAL #4616 (prithviraj.kanherkar@microsoft.com)
+- Bump @azure/msal-common to v6.2.0
+
+### Patches
+
+- Fix persistent key store deletion on logout #4617 (hemoral@microsoft.com)
 
 ## 2.22.1
 
